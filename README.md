@@ -9,19 +9,19 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the required packages.
 
 ### Step2:
-<br>
+Load the image file in the program.
 
 ### Step3:
-<br>
+Use the techniques for Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
 ### Step4:
-<br>
+Display the modified image output
 
 ### Step5:
-<br>
+End the program.
 
 ## Program:
 ```python
